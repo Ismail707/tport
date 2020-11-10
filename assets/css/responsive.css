@@ -1,0 +1,1179 @@
+/* Max width 767px */
+@media only screen and (max-width: 767px) {
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .ptb-70 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  .pt-70 {
+    padding-top: 20px;
+  }
+  p {
+    font-size: 15px;
+  }
+  /*-- --*/
+  .default-btn {
+    padding: 13px 13px;
+    font-size: 13px;
+  }
+  .default-btn-2 {
+    padding: 13px 13px;
+    font-size: 14px;
+  }
+  /*-- Defult-Header --*/
+  .default-header-2 {
+    text-align: center;
+  }
+  .default-header-2 span {
+    font-size: 15px;
+    margin-bottom: 25px;
+  }
+  .default-header-2 span::before {
+    width: 97px;
+    height: 1px;
+    top: 31px;
+  }
+  .default-header-2 h2 {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 13px;
+  }
+  .default-header-2 p {
+    font-size: 15px;
+  }
+  .default-header {
+    text-align: center;
+  }
+  .default-header span {
+    font-size: 15px;
+    margin-bottom: 25px;
+  }
+  .default-header span::before {
+    width: 97px;
+    height: 1px;
+    top: 31px;
+  }
+  .default-header h2 {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 13px;
+  }
+  .default-header p {
+    font-size: 15px;
+  }
+  /*-- HOME PAGE ONE --*/
+  .header-area {
+    text-align: center;
+    margin-top: 54px;
+  }
+  .header-area .header-left {
+    margin-bottom: 10px;
+  }
+  .header-area .header-left ul li {
+    padding-right: 6px;
+    font-size: 13px;
+  }
+  .header-area .header-left ul li a i {
+    right: 3px;
+    font-size: 13px;
+    top: 1px;
+  }
+  .header-area .header-right .header-socile {
+    margin-bottom: 10px;
+    text-align: center !important;
+  }
+  .header-area .header-right .header-socile ul li a i {
+    font-size: 14px;
+  }
+  .header-area .header-right .header-language ul li .dropdown {
+    text-align: center;
+  }
+  .header-area .header-right .header-language ul li .dropdown a {
+    font-size: 14px;
+  }
+  /*-- Nav --*/
+  .mobile-nav .logo {
+    top: 5px;
+  }
+  .mobile-nav .logo img {
+    width: 80px;
+  }
+  /*-- Home-Slider --*/
+  .home-slider .slider-item {
+    height: 550px;
+    margin-top: 0;
+    text-align: center;
+  }
+  .home-slider .slider-item .banner-content h1 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .home-slider .slider-item .banner-content h1::before {
+    display: none !important;
+  }
+  .home-slider .slider-item .banner-content p {
+    margin-bottom: 30px;
+  }
+  .home-slider .owl-nav.disabled + .owl-dots {
+    display: none;
+  }
+  /*-- Home Slider --*/
+  /*-- Slider-Bottom --*/
+  .slider-bottom {
+    padding: 50px;
+    position: revert;
+    margin-top: 50px;
+  }
+  .slider-bottom .bottom-item {
+    margin-bottom: 20px;
+  }
+  .slider-bottom .bottom-item .media .icon-anim i {
+    font-size: 17px;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+  }
+  .slider-bottom .bottom-item .media .media-body h2 {
+    font-size: 15px;
+    margin-bottom: 2px;
+  }
+  .slider-bottom .bottom-item .media .media-body p {
+    font-size: 14px;
+    color: #fff;
+  }
+  /*-- END Slider-Bottom --*/
+  /* -- We Provide -- */
+  .provide-area .provide-item i {
+    font-size: 30px;
+    margin-bottom: 23px;
+    left: 0;
+  }
+  .provide-area .provide-item::after {
+    width: 110px;
+    height: 110px;
+    top: 137px;
+    left: 161px;
+  }
+  .provide-area .provide-item h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .provide-area .provide-item p {
+    font-size: 15px;
+  }
+  .provide-area .house-item i {
+    left: 0;
+  }
+  .provide-area .house-item::after {
+    width: 100px;
+    height: 105px;
+    top: 158px;
+    left: 147px;
+  }
+  .provide-area .food-item i {
+    left: 0;
+  }
+  .provide-area .food-item::after {
+    width: 120px;
+    height: 118px;
+    top: 147px;
+    left: 138px;
+  }
+  .provide-area .van-item:after {
+    width: 145px;
+    height: 80px;
+    top: 164px;
+    left: 135px;
+  }
+  .provide-area .ship-item::after {
+    width: 117px;
+    height: 126px;
+    top: 130px;
+    left: 138px;
+  }
+  .provide-area .provide-header {
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  .provide-area .provide-header h2 {
+    font-size: 30px;
+    margin-bottom: 17px;
+  }
+  .provide-area .provide-btn {
+    font-size: 15px;
+    padding: 15px 40px;
+    padding: 13px 27px;
+    margin-bottom: 30px;
+  }
+  /* --end  We Provide -- */
+  /* -- About -- */
+  .about-area .about-left ul {
+    margin-bottom: 30px;
+  }
+  .about-area .about-left ul li {
+    font-size: 14px;
+  }
+  .about-area .about-left ul li i {
+    font-size: 13px;
+    padding: 2px;
+    margin-right: 5px;
+  }
+  .about-area .about-left p {
+    margin-bottom: 20px;
+  }
+  .about-area .about-left img {
+    margin-bottom: 20px;
+  }
+  .about-area .about-left .about-btn .home-video-right a {
+    position: absolute;
+    left: 44%;
+    bottom: 0px;
+    background: #ff5e15;
+    color: #f8f9fa;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-decoration: none;
+    border-radius: 50%;
+    font-size: 15px;
+    text-align: center;
+  }
+  .about-area .about-right {
+    margin-top: 100px;
+  }
+  /*-- END About Area --*/
+  /*-- Service Area --*/
+  .service-item .service-text a h2 {
+    font-size: 20px;
+    margin-bottom: 17px;
+    text-align: center;
+  }
+  .service-item .service-text p {
+    text-align: center;
+  }
+  /*-- END Service --*/
+  /* -- Choose-Us Area -- */
+  .choose-area .choose-left .single-counter {
+    text-align: center;
+    padding: 20px;
+  }
+  .choose-area .choose-left .single-counter i {
+    font-size: 60px;
+  }
+  .choose-area .choose-left .single-counter h2 {
+    font-size: 25px;
+    margin-bottom: 4px;
+    margin-top: -16px;
+  }
+  .choose-area .choose-right {
+    position: relative;
+    margin-top: 20px;
+  }
+  .choose-area .choose-right::after {
+    top: 97px;
+    z-index: -1;
+    right: -10px;
+  }
+  /*-- END Chosse Area --*/
+  /*-- Team-Area --*/
+  .team-area .team-item::before {
+    width: 279px;
+    height: 201px;
+    top: 114px;
+    left: 0px;
+  }
+  .team-area .team-item .team-text {
+    position: absolute;
+    width: 287px;
+    height: 201px;
+    background-color: #ff5e15b8;
+    padding: 20px;
+    padding-top: 155px;
+  }
+  .team-area .team-item .team-text h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .team-area .team-item .team-text p {
+    font-size: 13px;
+  }
+  /*-- END Team-Area --*/
+  /*-- Blog Area --*/
+  .blog-area .blog-item .blog-text .date {
+    padding: 5px;
+    width: 44px;
+    height: 44px;
+    top: 198px;
+    left: 0;
+  }
+  .blog-area .blog-item .blog-text .date span {
+    font-size: 13px;
+  }
+  .blog-area .blog-item .blog-text .date P {
+    font-size: 13PX;
+  }
+  .blog-area .blog-item .blog-text {
+    padding: 18px;
+    padding-top: 18px;
+  }
+  .blog-area .blog-item .blog-text::before {
+    width: 250px;
+    height: 1px;
+    top: 365px;
+    left: 20px;
+  }
+  .blog-area .blog-item .blog-text ul li a {
+    font-size: 13px;
+  }
+  .blog-area .blog-item .blog-text a h2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  .blog-area .blog-item .default-btn-1 {
+    border: 1px solid #ff5e15;
+    border-radius: 0;
+    padding: 9px 19px;
+    font-size: 14px;
+  }
+  /*--END Blog Area --*/
+  /*-- Update-Area --*/
+  .update-area {
+    padding: 15px;
+    top: 58px;
+    border-radius: 0;
+    margin-bottom: 40px;
+  }
+  .update-area .update-text h2 {
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .update-area .email-area .email-btn {
+    color: #fff;
+    background-color: #ff5e15;
+    font-size: 14px;
+    padding: 13px 15px;
+    border-radius: 0;
+    position: absolute;
+    top: 1px;
+    right: 15px;
+  }
+  .transport-area .transport-form {
+    padding-left: 0px;
+    padding-right: 0;
+    padding: 20px;
+    width: 305px;
+    top: 60px;
+  }
+  .transport-area .transport-form h2 {
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .transport-area .transport-form span {
+    font-size: 14px;
+    margin-bottom: 9px;
+    text-align: center;
+  }
+  .transport-area .transport-form .transport-btn ul li a {
+    border: 1px solid #fff;
+    padding: 10px 7px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .transport-area .transport-img {
+    height: 400px;
+    top: 730px;
+    margin-bottom: 730px;
+  }
+  .transport-area .transport-img a {
+    left: 40%;
+    top: 40%;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    font-size: 17px;
+  }
+  /*-- END Transportation Area --*/
+  /* -- Feedback-Area -- */
+  .feedback-area .feedback-slider .feedback-item {
+    padding: 20px;
+    margin-top: 56px;
+  }
+  .feedback-area .feedback-slider .feedback-item .feedback-text h2 {
+    font-size: 20px;
+    margin-bottom: 11px;
+    margin-top: 20px;
+  }
+  .feedback-area .feedback-slider .feedback-item .feedback-text p {
+    margin-bottom: 15px;
+  }
+  .feedback-area .feedback-slider .feedback-item .feedback-text i {
+    font-size: 25px;
+  }
+  .feedback-area .feedback-slider .feedback-item .feedback-text ul li i {
+    font-size: 16px;
+    margin-bottom: 13px;
+  }
+  .feedback-area .feedback-slider .feedback-item .feedback-img img {
+    width: 100px !important;
+    margin: auto;
+    margin-top: 52px;
+  }
+  .feedback-area .feedback-slider .owl-dots .owl-dot span {
+    width: 12px;
+    height: 12px;
+  }
+  .feedback-area .feeedback-img-3 {
+    display: none;
+  }
+  .feedback-area .owl-theme .owl-nav.disabled + .owl-dots {
+    margin-top: 25px;
+  }
+  /*-- Footer-Area --*/
+  .footer-area .footer-item {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .footer-area .footer-item ul .follow {
+    padding-right: 10px;
+    font-size: 17px;
+  }
+  .footer-area .footer-item ul li a i {
+    font-size: 14px;
+  }
+  .footer-area .footer-item p {
+    margin-bottom: 20px;
+  }
+  .footer-area .item-footer {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .footer-area .item-footer h2 {
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
+  .footer-area .item-footer ul li a {
+    font-size: 14px;
+  }
+  .footer-area .single-footer {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .footer-area .single-footer h2 {
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
+  .footer-area .single-footer ul li a {
+    font-size: 14px;
+  }
+  .footer-area .single-footer .footer-info-contact {
+    padding-left: 0px;
+    margin-bottom: 10px;
+  }
+  .footer-area .single-footer .footer-info-contact i {
+    left: 0;
+    right: 203px;
+    font-size: 17px;
+  }
+  .footer-area .single-footer .footer-info-contact span a {
+    font-size: 14px;
+  }
+  .footer-area .copy-area {
+    margin-top: 30px;
+    padding: 25px 0;
+    border-top: 1px solid #402014;
+  }
+  /*-- END Footer-Area --*/
+  /*======================== END HOME PAGE ONE ========================*/
+  /*======================== HOME PAGE TWO ========================*/
+  /* Slidr-Area --*/
+  .home-slider-two .slider-item .banner-content {
+    background-color: transparent;
+    padding-bottom: 0px;
+    padding-top: 0;
+    padding: 0;
+    text-align: center;
+  }
+  .home-slider-two .slider-item .banner-content h2 {
+    font-size: 30px;
+    margin-bottom: 19px;
+  }
+  .home-slider-two .slider-item .banner-content h2::after {
+    display: none;
+  }
+  /*-- About Area --*/
+  .choose-right-two .choose-img-2 img {
+    top: 250px;
+    width: 270px;
+    height: 300px;
+    left: 38px;
+  }
+  .choose-right-two .choose-text {
+    padding: 5px;
+    top: 320px;
+    right: 211px;
+    z-index: 1;
+  }
+  .choose-right-two .choose-text span {
+    font-size: 14px;
+  }
+  .choose-right-two::before {
+    top: 200px;
+    z-index: 1;
+    left: 0;
+  }
+  /*-- END About Area --*/
+  /* -- Service-area --*/
+  .service-asre-two {
+    margin-top: 500px;
+    text-align: center;
+  }
+  .service-asre-two .serv-header span {
+    margin-bottom: 18px;
+  }
+  .service-asre-two .serv-header span::before {
+    width: 68px;
+    height: 2px;
+    top: 32px;
+  }
+  .service-asre-two .serv-header h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .service-asre-two .serv-header p {
+    font-size: 14px;
+    margin-bottom: 45px;
+  }
+  .service-asre-two .service-item .icon-anim i {
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+  .service-asre-two .service-item .icon-anim h2 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 15px;
+  }
+  /*-- Choose-Area ---*/
+  .chose-area-two .choose-us .choose-us-item {
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .chose-area-two .choose-us .choose-us-item ul li a {
+    font-size: 21px;
+    font-weight: 500;
+  }
+  .chose-area-two .choose-us .choose-us-item ul li a i {
+    top: 0;
+  }
+  /*-- END Choose-Area ---*/
+  /*-- BEST Service-area -- */
+  .best-servise-item .best-text h2 {
+    font-size: 19px;
+    margin-bottom: 11px;
+  }
+  .best-servise-item .best-text p {
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  /*-- TEam --*/
+  .team-area .team-item-2 .team-text {
+    background-color: #dbd8d6a8;
+  }
+  /*-- Update-Area --*/
+  .update-wrp-two .update-area .email-area .email-btn {
+    color: #fff;
+    background-color: #ff5e15;
+    font-size: 14px;
+    padding: 13px 15px;
+    border-radius: 0;
+    position: absolute;
+    top: 1px;
+    right: 15px;
+  }
+  /*============== END Home Page Two =================*/
+  .home-slider-three .slider-item-3 {
+    height: 550px;
+    margin-top: 56px;
+  }
+  .home-slider-three .slider-item-3 .banner-content {
+    text-align: center;
+  }
+  .home-slider-three .slider-item-3 .banner-content h1 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .home-slider-three .slider-item-3 .banner-content h1::before {
+    display: none;
+  }
+  .slider-3-bottom {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    top: 0px;
+  }
+  .slider-3-bottom .form-control {
+    margin-bottom: 10px;
+  }
+  .slider-3-bottom .btn-primary {
+    padding: 10px 9px;
+    font-size: 14px;
+    display: block;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+  /*-- About Area --*/
+  .about-area {
+    margin-bottom: 420px;
+  }
+  .about-area .about-right-2 .about-img-1 img {
+    width: 200px;
+    height: 219px;
+    left: 0;
+    top: 207px;
+  }
+  .about-area .about-right-2 .about-img-3 img {
+    position: absolute;
+    width: 170px;
+    height: 190px;
+    left: 130px;
+    top: 163px;
+    z-index: 1;
+  }
+  .about-area .choose-text {
+    padding: 9px;
+    top: 332px;
+    right: 99px;
+  }
+  .about-area .choose-text span {
+    font-size: 14px;
+  }
+  .about-area .choose-text p {
+    font-size: 12px;
+  }
+  /*-- END About --*/
+  /*-- provide-area --*/
+  .provide-area-2 .provide-item-2 .provid-text {
+    position: absolute;
+    top: 79px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  /*==================== END HOME PAGE THREE ================*/
+  .banner-area {
+    margin-top: 0px;
+    height: 355px;
+  }
+  .banner-area .banner-head h2 {
+    font-size: 35px;
+  }
+  .banner-area .banner-head ul li a {
+    font-size: 15px;
+  }
+  /*-- END ABOUT PAGE --*/
+  /*-- SONGLE PAGE --*/
+  .blog-left .blog-post .post-content ul li a {
+    font-size: 13px;
+  }
+  .blog-left .blog-post .post-content ul li i {
+    margin-right: 5px;
+    font-size: 15px;
+  }
+  .blog-left .blog-post .post-content h2 {
+    font-size: 17px;
+    margin-bottom: 19px;
+    text-align: center;
+  }
+  .blog-left .blog-post .post-content p {
+    text-align: center;
+  }
+  .blog-left .blog-dsle {
+    margin-bottom: 28px;
+    text-align: center;
+  }
+  .blog-left .blog-dsle img {
+    margin-bottom: 25px;
+  }
+  .blog-left .blog-quot {
+    padding: 28px;
+    padding-bottom: 143px;
+    padding-top: 16px;
+  }
+  .blog-left .blog-quot i {
+    margin-right: 5px;
+    font-size: 47px;
+    left: 0px;
+    top: -4px;
+  }
+  .blog-left .quot-bottom .quot-p {
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  .blog-left .blog-social .social {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .blog-left .blog-social ul li a i {
+    font-size: 13px;
+    padding: 6px 7px;
+  }
+  .blog-left .blog-social .shear {
+    text-align: center;
+  }
+  .blog-left .comment-area .comment-item h2 {
+    font-size: 17px;
+    margin-bottom: 25px;
+  }
+  .blog-left .comment-area .comment-item .media .media-body span {
+    font-size: 12px;
+    margin-bottom: 16px;
+  }
+  .blog-left .comment-area .comment-item .media .media-body p {
+    margin-bottom: 19px;
+  }
+  .blog-left .comment-area .comment-item .media .media-body .reply-bn {
+    font-size: 13px;
+    padding: 7px 26px;
+  }
+  .blog-left .comment-area .comment-item::before {
+    width: 212px;
+  }
+  .blog-right .populer-post h2 {
+    font-size: 18px;
+    padding: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .blog-right .our-service h2 {
+    font-size: 18px;
+    padding: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .blog-right .service-item h2 {
+    padding: 15px;
+    text-align: center;
+  }
+  .blog-right .populer-post h2 {
+    font-size: 18px;
+    padding: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .blog-right .tags h2 {
+    font-size: 18px;
+    padding: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .blog-right .tags ul li a {
+    padding: 15px 10px;
+    font-size: 13px;
+  }
+  /*-- Single Service --*/
+  .info h2 {
+    font-size: 17px;
+    padding: 20px;
+  }
+}
+
+.contact-contact .contact-item {
+  margin-bottom: 30px;
+}
+
+/* ============================================================================ */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-100 {
+    padding-top: 70px;
+  }
+  .ptb-70 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  .pt-70 {
+    padding-top: 20px;
+  }
+  /*==================HOME PAGE ONE ======================*/
+  .mean-container .mean-bar {
+    margin-top: 0px;
+    height: 65px;
+  }
+  .default-header {
+    margin-bottom: 40px;
+  }
+  .default-header h2 {
+    font-size: 33px;
+    font-weight: 700;
+    margin-bottom: 15px;
+  }
+  .default-header span {
+    font-size: 15px;
+    margin-bottom: 25px;
+  }
+  .mobile-nav .logo {
+    top: 2px;
+    z-index: 999;
+    left: 15px;
+    font-size: 20px;
+  }
+  .mobile-nav .logo img {
+    width: 80px;
+  }
+  .header-area {
+    margin-top: 0px;
+  }
+  .header-left {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .header-left ul li {
+    padding-right: 28px;
+  }
+  .header-right .header-socile {
+    margin-bottom: 10px;
+    text-align: center !important;
+  }
+  .header-right .header-language {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  /*--  Home Slder --*/
+  .slider-item {
+    margin-top: 0px;
+  }
+  .slider-item .banner-content h1 {
+    font-size: 40px;
+    margin-bottom: 70px;
+  }
+  .home-slider .owl-nav.disabled + .owl-dots {
+    right: 151px;
+    width: 15px;
+  }
+  /* -- Slider-Bottom -- */
+  .slider-bottom .bottom-item {
+    margin-bottom: 20px;
+  }
+  .provide-area .provide-item::after {
+    left: 150px;
+  }
+  .provide-area .van-item::after {
+    top: 199px;
+    left: 132px;
+  }
+  .provide-area .house-item::after {
+    top: 179px;
+    left: 120px;
+    width: 153px;
+  }
+  .provide-area .food-item::after {
+    top: 178px;
+    left: 144px;
+  }
+  .provide-area .food-item::after {
+    top: 178px;
+    left: 144px;
+    width: 140px;
+  }
+  .about-area .about-left .about-btn {
+    margin-bottom: 100px;
+  }
+  /* -- Choose-Us Area -- */
+  .choose-area .choose-right::after {
+    top: 37px;
+  }
+  /*-- Blog Area --*/
+  .blog-area .blog-item .blog-text .date {
+    padding: 5px;
+    width: 45px;
+    height: 50px;
+    top: 226px;
+    left: 0;
+  }
+  .blog-area .blog-item .default-btn-1 {
+    border-radius: 0;
+    padding: 10px 22px;
+  }
+  /*-- Footer --*/
+  .footer-area .footer-item ul .follow {
+    padding-right: 10px;
+    font-size: 17px;
+  }
+  .footer-area .footer-item ul li {
+    padding-right: 5px;
+  }
+  .footer-area .footer-item ul li a i {
+    font-size: 14px;
+  }
+  .footer-area .footer-item p {
+    margin-bottom: 25px;
+  }
+  .footer-area .item-footer h2 {
+    font-size: 17px;
+    margin-bottom: 20px;
+  }
+  .footer-area .item-footer ul li {
+    margin-bottom: 15px;
+  }
+  .footer-area .item-footer ul li a {
+    font-size: 14px;
+  }
+  .footer-area .single-footer h2 {
+    font-size: 17px;
+    margin-bottom: 20px;
+  }
+  .footer-area .single-footer h2 .footer-info-contact span {
+    font-size: 14px;
+  }
+  /*================== HOME PAGE TWO ========================*/
+  /*-- Home Slidder --*/
+  .home-slider-two .slider-item {
+    margin-top: 67px;
+  }
+  .about-two {
+    margin-bottom: 475px;
+  }
+  .about-left {
+    margin-bottom: 30px;
+  }
+  .choose-right-two .choose-text {
+    top: 366px;
+    right: 137px;
+    z-index: 1;
+  }
+  .choose-right-two::before {
+    top: 96px;
+    z-index: 1;
+    right: 339px;
+  }
+  .service-asre-two p {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+  .service-asre-two .serv-header {
+    text-align: center;
+  }
+  .service-asre-two .serv-header span {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .service-asre-two .serv-header span::before {
+    width: 69px;
+    height: 2px;
+    top: 33px;
+  }
+  .service-asre-two .serv-header h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .service-asre-two .service-item {
+    text-align: center;
+  }
+  .service-asre-two .service-item .icon-anim i {
+    display: block;
+    margin: auto;
+  }
+  .service-asre-two .service-item h2 {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  .best-servise-item .best-text {
+    bottom: 38px;
+    padding: 0px 10px 0px 10px;
+  }
+  .transport-area-two .take-order {
+    padding: 44px;
+    max-width: 280px;
+    top: 328px;
+    right: 0;
+  }
+  .transport-area-two .take-order h2 {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+  .transport-area-two .take-order .common-btn {
+    padding: 10px 15px;
+  }
+  .transport-area-two .transport-form {
+    padding: 55px;
+    padding-left: 114px;
+    padding-right: 144px;
+  }
+  /*================= HOME PAGE THREE ===================*/
+  .about-area .about-right-2 {
+    margin-bottom: 400px;
+  }
+  .default-header-2 h2 {
+    font-size: 30px;
+    margin-bottom: 12px;
+  }
+  .default-header-2 span {
+    font-size: 15px;
+    margin-bottom: 26px;
+  }
+  .choose-us .choose-us-item {
+    text-align: center;
+  }
+  .choose-us .choose-us-item ul li a {
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .choose-us .choose-us-item ul li a i {
+    font-size: 35px;
+    margin-bottom: 10px;
+    display: block;
+  }
+  /*============ ABOUT PAGE =================*/
+  .chose-area-two .choose-us .choose-us-item ul li a {
+    font-size: 17px;
+    font-weight: 700;
+  }
+  .header-top {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #dddddd;
+    background-color: #000000e6;
+    margin-top: 56px;
+  }
+  /*===== BLOG PAGE ======*/
+  .blog-left .comment-area .comment-item::before {
+    width: 100%;
+  }
+  .blog-right .populer-post h2 {
+    font-size: 20px;
+    padding: 15px;
+    margin-bottom: 11px;
+  }
+  .blog-right .our-service h2 {
+    font-size: 20px;
+    padding: 15px;
+    margin-bottom: 11px;
+  }
+  .blog-right .tags h2 {
+    font-size: 20px;
+    padding: 15px;
+    margin-bottom: 11px;
+  }
+  .blog-right .tags ul li a {
+    padding: 18px 15px;
+    color: #1b1919;
+  }
+  /*-- Service Page --*/
+  .banner-area .banner-head h2 {
+    font-size: 40px;
+  }
+  .contact-info h2 {
+    font-size: 15px;
+    padding: 15px;
+  }
+  .banner-area {
+    margin-top: 0;
+  }
+}
+
+/*=========================================*/
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /*==== HOME PAGE ONE ======*/
+  .slider-item {
+    margin-top: 92px;
+  }
+  /*--provide-area --*/
+  .provide-area .provide-item::after {
+    width: 98px;
+    height: 97px;
+    top: 215px;
+    left: 139px;
+  }
+  .provide-area .van-item::after {
+    top: 229px;
+    left: 93px;
+    width: 160px;
+    height: 100px;
+  }
+  .provide-area .house-item::after {
+    top: 216px;
+    left: 99px;
+    width: 137px;
+    height: 126px;
+  }
+  .provide-area .food-item::after {
+    top: 222px;
+    left: 111px;
+    width: 129px;
+    height: 129px;
+  }
+  .provide-area .ship-item::after {
+    top: 211px;
+    left: 88px;
+    width: 116px;
+    height: 129px;
+  }
+  .choose-area .choose-right::after {
+    top: 154px;
+  }
+  .blog-area .blog-item .blog-text::before {
+    width: 95%;
+    top: 380px;
+    left: 4px;
+  }
+  /*-- HOME PAGE TWO --*/
+  .about-two {
+    margin-bottom: 0px;
+  }
+  .choose-area .choose-left .single-counter .counter-icon i {
+    font-size: 64px;
+  }
+  .choose-area .choose-left .single-counter h2 {
+    font-size: 30px;
+  }
+  .choose-area .choose-left .single-counter p {
+    font-size: 15px;
+  }
+  /*=========== Homepage two ===========*/
+  .transport-area-two .take-order {
+    padding: 44px;
+    max-width: 338px;
+    top: 328px;
+    right: 122px;
+  }
+  .blog-area .blog-item .blog-text .date {
+    background: #ff5e15;
+    padding: 5px;
+    width: 53px;
+    height: 57px;
+    text-align: center;
+    position: absolute;
+    top: 188px;
+    left: 0;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
